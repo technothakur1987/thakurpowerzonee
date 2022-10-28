@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/thakurpowerzonee/static/css/main.97b264a1.css",
+    "main.js": "/thakurpowerzonee/static/js/main.064f7e0e.js",
+    "static/js/787.1059ba97.chunk.js": "/thakurpowerzonee/static/js/787.1059ba97.chunk.js",
+    "static/media/videoBanner.webm": "/thakurpowerzonee/static/media/videoBanner.08c654a28a790ad14bb2.webm",
+    "static/media/gal3.webp": "/thakurpowerzonee/static/media/gal3.1951ad9d12227f7e54f7.webp",
+    "static/media/gal4.webp": "/thakurpowerzonee/static/media/gal4.0286e912ef0da1759d05.webp",
+    "static/media/gal66.webp": "/thakurpowerzonee/static/media/gal66.1d12878026bb6e47862c.webp",
+    "static/media/gal22.webp": "/thakurpowerzonee/static/media/gal22.ae59efa0dc7d4a36bfc2.webp",
+    "static/media/gal5.webp": "/thakurpowerzonee/static/media/gal5.d9b986ad00a482743093.webp",
+    "static/media/gal1.webp": "/thakurpowerzonee/static/media/gal1.b4f809e367d65797dbf3.webp",
+    "static/media/personaltrainingimg.webp": "/thakurpowerzonee/static/media/personaltrainingimg.2054825a2bbfdebfb050.webp",
+    "static/media/bookasession.webp": "/thakurpowerzonee/static/media/bookasession.7ea8f9cbf2f73d911484.webp",
+    "static/media/professionaltrainingimg.webp": "/thakurpowerzonee/static/media/professionaltrainingimg.af155ee3ba90e6ba764b.webp",
+    "static/media/powerportionlogo.png": "/thakurpowerzonee/static/media/powerportionlogo.bbb459323c153f202fa5.png",
+    "static/media/contactinstaicon.svg": "/thakurpowerzonee/static/media/contactinstaicon.147d0fec0e168d76cbfbaee83c388954.svg",
+    "static/media/contactaddicon.svg": "/thakurpowerzonee/static/media/contactaddicon.a154c173d59c3b837fd7ae759fc3b56a.svg",
+    "index.html": "/thakurpowerzonee/index.html",
+    "static/media/Testinomailslogo.svg": "/thakurpowerzonee/static/media/Testinomailslogo.f8fb2f19a8b7bce73d8d2b1a2424d9fe.svg",
+    "static/media/contacttimeicon.svg": "/thakurpowerzonee/static/media/contacttimeicon.c0e77d51e803ec04ecbd9eade0eb18da.svg",
+    "static/media/contacttelicon.svg": "/thakurpowerzonee/static/media/contacttelicon.e66d10d6b92c11b892bdc7155b3a8061.svg",
+    "static/media/contactfbicon.svg": "/thakurpowerzonee/static/media/contactfbicon.d272a4b836f431bc889dcd4ce7c12dce.svg",
+    "main.97b264a1.css.map": "/thakurpowerzonee/static/css/main.97b264a1.css.map",
+    "main.064f7e0e.js.map": "/thakurpowerzonee/static/js/main.064f7e0e.js.map",
+    "787.1059ba97.chunk.js.map": "/thakurpowerzonee/static/js/787.1059ba97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b264a1.css",
+    "static/js/main.064f7e0e.js"
+  ]
+}
